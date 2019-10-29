@@ -1,0 +1,17 @@
+{
+  "name": "typescript-functional",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc src/*.ts --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ryosuke hashimoto",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.6.4"
+  }
+}
